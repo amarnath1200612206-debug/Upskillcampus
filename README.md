@@ -57,8 +57,9 @@ The strategy also includes budget optimization, creative comparison, Custom Audi
 
 Project Reports
 
-- "Meta Ads Audience Project" (MetaAdsAudience.pdf)
-- "Industrial Internship Report" (MetaAdsAudience_Amarnath_USC_UCT.pdf)
+Project Reports
+
+- "Industrial Internship Report (PDF)" (MetaAdsAudience_Amarnath_USC_UCT-1.pdf)
 
 Key Learnings
 
